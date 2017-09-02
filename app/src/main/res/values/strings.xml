@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calendar Organizer</string>
+    <string name="intent_calendar_name">calendar_name</string>
+</resources>
